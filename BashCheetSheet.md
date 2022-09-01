@@ -8,7 +8,7 @@ bash file.sh	  Used to execute the script in the terminal.
 | |	            logical OR operator.
 $#	            Used to expands the number of arguments passed to the script.
 $0	            Used to expands to the name of the shell.
-$1, $2	        Used as an input param­eter that you can add when running script.
+$1, $2	        Used as an input parameter that you can add when running script.
 exit [0-255]	  Used to exit the script and return the number from 0 to 255.
 $	              Used for parameters and variables.
 ()	            Used for running commands in a subshell.
